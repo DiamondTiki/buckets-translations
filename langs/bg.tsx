@@ -279,7 +279,7 @@ const messages:IMessages = {
   },
   "Backup file": {
     /* Label for backup file selector */
-    val: "Файл на резерното копие",
+    val: "Файл на резервното копие",
     translated: true,
     h: "HF5523dI/DYBC0mgunrYA58CSFMjLy0eMYOIgDnftyQ=",
   },
@@ -317,7 +317,7 @@ const messages:IMessages = {
     h: "9/8gWH6aVupdwCUJFJ4KodEJWn4fFwbiASgh7oQcxPE=",
   },
   "Birthdays": {
-    val: "Рожденни дни",
+    val: "Рождени дни",
     translated: true,
     h: "rzI9rIMV5VD86pAzRZf+uFAA8rWYhz1rIH5N9fDesSk=",
   },
@@ -399,8 +399,8 @@ const messages:IMessages = {
     h: "jPwdFrODeZ3bxIdD+YJ9CFGjCQTqdwQNr9CdB4QTI6U=",
   },
   "Buckets supports these methods for getting transaction data from your bank:": {
-    val: "Buckets supports these methods for getting transaction data from your bank:",
-    translated: false,
+    val: "Buckets поддържа тези методи за получаване на данни за транзакции от твоята банка:",
+    translated: true,
     h: "FZTmMzn8nueq7ZFrrj79vDt/YeA8nG6ObK8YvAIqM4U=",
   },
   "Budget": {
@@ -411,7 +411,7 @@ const messages:IMessages = {
   },
   "Budget Specific Settings": {
     /* Title for budget settings page */
-    val: "Бъджетно-специфични настройки",
+    val: "Бюджетно-специфични настройки",
     translated: true,
     h: "/RQVOKmoXTgeciF+ohehk19BxpvBXud+3HjfZPPw1v8=",
   },
@@ -441,8 +441,8 @@ const messages:IMessages = {
     h: "aP72arzLN/j79zGtL8DWE7wcBGciRcWqMOR1aTHJmNo=",
   },
   "CSV (comma separated value)": {
-    val: "CSV (comma separated value)",
-    translated: false,
+    val: "CSV (comma separated value - стойност, разделена със запетаи)",
+    translated: true,
     h: "5Z0E+DB+F+KY2h8NuibNi+87sT6vopRsErOJ8d0yslI=",
   },
   "Cable TV": {
@@ -498,7 +498,7 @@ const messages:IMessages = {
     h: "Lsok3+kX1L7SXMumFWNo+oxBgfmGJcWg1CdSDw6byx8=",
   },
   "Car Payment": {
-    val: "Плащане за кола",
+    val: "Изплащане за кола",
     translated: true,
     h: "wp49ZoinRgifzKQ+N9RrJ6LG/9Yw6hkw1RCwXwHc6tA=",
   },
@@ -725,8 +725,8 @@ const messages:IMessages = {
     h: "G5NDAP857MBDE66GWUREcFAJc2pCogndYa6y+m6PRfE=",
   },
   "Create a local macro to download transaction data directly from your bank.": {
-    val: "Create a local macro to download transaction data directly from your bank.",
-    translated: false,
+    val: "Създай локален макрос за сваляне на данни за транзакции директно от твоята банка.",
+    translated: true,
     h: "Vh8nBn0cavaQNu36hUUud2ryLiVOAMsRbT5ChS7S4II=",
   },
   "Create budget password:": {
@@ -936,8 +936,8 @@ const messages:IMessages = {
     h: "OvekDBh71chOkbTXqPs/V/x0lNbpc668s4hyXRF5G+I=",
   },
   "Download files from your bank and import them into Buckets by hand. Use one of these supported formats:": {
-    val: "Download files from your bank and import them into Buckets by hand. Use one of these supported formats:",
-    translated: false,
+    val: "Изтегли файлове от банката си и ги импортирай ръчно в Buckets. Използвай един от следните поддържани формати:",
+    translated: true,
     h: "LsliERffd99kBsYRlZT5YGFc+8YblI34myXEn8nOf64=",
   },
   "Downloading update...": {
@@ -1098,8 +1098,8 @@ const messages:IMessages = {
     h: "d6aKytFAPwPUzFOv41R0itfcMu11VdE29vkM05dnpBU=",
   },
   "Experimental": {
-    val: "Experimental",
-    translated: false,
+    val: "Експериментално",
+    translated: true,
     h: "no1ioBlGHyiDvTFwZWO0lttppGgYpgqTedbs4JRiNuo=",
   },
   "Export": {
@@ -1114,7 +1114,7 @@ const messages:IMessages = {
   },
   "Faint cents": {
     /* Label for application preference enabling/disabling faint cents */
-    val: "Бледи стотинки",
+    val: "Бледи центове",
     translated: true,
     h: "gL5W+6nmqNfRsbiNIBEyHIX0LvI1xCYl+kDyuUwFsGI=",
   },
@@ -1135,8 +1135,8 @@ const messages:IMessages = {
     h: "RPeWW9lCHkg+d6XybADj3OH2jxrYcSOhrA3+QHEcYz0=",
   },
   "File import": {
-    val: "File import",
-    translated: false,
+    val: "Импортиране на файл",
+    translated: true,
     h: "uC3CIunheYN1Vvqbcm4I0QpmFe3eLK7808KuuUw6LO4=",
   },
   "File import mapping": {
@@ -1324,13 +1324,13 @@ const messages:IMessages = {
     h: "ge86Jcy26vcv5uPFI29MfLOxHh8ctACck6nRdrl9aM4=",
   },
   "If Net is 0, the bucket transactions will be marked as transfers rather than as income or expenses.": {
-    val: "Ако Нетно е 0, транзакциите на кофите ще бъдат маркиране като транфери вместо приходи или разходи.",
+    val: "Ако Нетно е 0, транзакциите на кофите ще бъдат маркирани като трансфери вместо приходи или разходи.",
     translated: true,
     h: "/btREV6/jPJtrc1ERDwLUyJAowC8+v6gUB7bmJJYzT4=",
   },
   "If your bank supports SimpleFIN, this is the best option since it will likely be free and you won't have to give your credentials to anyone (including Buckets). Otherwise you may use a third party SimpleFIN server, which may not be free or private.": {
-    val: "If your bank supports SimpleFIN, this is the best option since it will likely be free and you won't have to give your credentials to anyone (including Buckets). Otherwise you may use a third party SimpleFIN server, which may not be free or private.",
-    translated: false,
+    val: "Ако банката ти поддържа SimpleFIN, това е най-добрата опция, понеже вероятно ще бъде безплатно и няма да е необходимо да даваш потребителската си информация на никого (включително Buckets). В противен случай, можеш да използваш SimpleFIN сървър на трета страна, който може да не бъде безплатен или да не спазва поверителност.",
+    translated: true,
     h: "ddtHdP1npfHbcsMjibiZUwjzILkdwTF/wzcAVrm2yKw=",
   },
   "Ignore": {
@@ -1346,7 +1346,7 @@ const messages:IMessages = {
     h: "Ils1ViOchbpiaHmdalbFiGmOlTK7ck+6+BhoyvUVrqM=",
   },
   "Import": {
-    val: "Ивпотирай",
+    val: "Импортиране",
     translated: true,
     h: "F3sijvfYz3oB4iz2rVHjUvNDLQs43MbXDVIr5VFA2/c=",
   },
@@ -1421,7 +1421,7 @@ const messages:IMessages = {
     h: "rjy01ggb0uSRPn/tmrf/BVwGQiXaaSc6Nh+o92BIU3U=",
   },
   "Income": {
-    val: "Приход",
+    val: "Приходи",
     translated: true,
     h: "D2fJbta5d1Z5QYuRC5zzkBHsItZOOgY4FKrFJ64BvRs=",
   },
@@ -1507,19 +1507,19 @@ const messages:IMessages = {
   },
   "Kick Bucket": {
     /* Name of action.  Consider this "Archive Bucket" */
-    val: "Архивирай Кофата",
+    val: "Сритай Кофа",
     translated: true,
     h: "3hmOuv1hNsjpQJ5cSDTlSqN4jGOGFnSPw9r0bK68RWY=",
   },
   "Kick the bucket": {
     /* Button label for archiving a bucket */
-    val: "Архивирай кофата",
+    val: "Сритай кофата",
     translated: true,
     h: "IvzeGJ9G+Rns8Rbnal26flTFzd+yBNSEBQSptdNy8t8=",
   },
   "Kicked": {
     /* Label for list of archived buckets */
-    val: "Архивирани",
+    val: "Сритани",
     translated: true,
     h: "cWApfoLlcBvoHizIFtrDQq3uwrZIYMXKO1iLMvv8szI=",
   },
@@ -1603,7 +1603,7 @@ const messages:IMessages = {
     h: "CMhZhId2bqThTVsNh1c/YbZs+qOkFTdtsZA8px8zwA4=",
   },
   "Local files": {
-    val: "Местни фалйове",
+    val: "Местни файлове",
     translated: true,
     h: "Atqw+RURXK7fFYEzxEV4d43UKK1kgVgoaKusNhnbGZg=",
   },
@@ -1619,8 +1619,8 @@ const messages:IMessages = {
   },
   "Macro": {
     /* Noun describing a computer recording */
-    val: "Macro",
-    translated: false,
+    val: "Макрос",
+    translated: true,
     h: "TTyp5ScQsIaeW/vglPPov+1Y6tg5/K4mKBuFR2wdDp8=",
   },
   "Macro deleted": {
@@ -1639,20 +1639,20 @@ const messages:IMessages = {
     h: "Rmor5ffKqQTdDQSwA2x/hHhrr0zL7MceXGsR1vHe6b4=",
   },
   "Make it rain!": {
-    val: "Навалѝ!",
+    val: "Навали!",
     translated: true,
     h: "GCU3Hru9VCit7F+BYEMKmg5U8gsc1/UZ+o5wsbMAkeY=",
   },
   "Make it so": {
     /* Button label for causing the set of pending deposits/withdrawls to happen.  Synonyms could be: "Do it" or "Run" or "Go" */
-    val: "Направѝ така",
+    val: "Направи така",
     translated: true,
     h: "XRTIWjylWKAy5BW8/0C0rOSW5S1QC+CxmgmFfhi81pk=",
   },
   "Manage": {
     /* Verb use to manage a connection */
-    val: "Manage",
-    translated: false,
+    val: "Управлявай",
+    translated: true,
     h: "tdUmovc9v6t8F6J7Qp3fY60LSxcLAqLTgQ7x1XMXHqI=",
   },
   "Mark Cleared": {
@@ -1763,7 +1763,7 @@ const messages:IMessages = {
     h: "zSmn/C+X/cbh/GqqDMPetNfBb8iTmlwFh9Dsbc9qe9k=",
   },
   "Move all transaction memos to blank payee field": {
-    val: "Премести всички бележки за транзакции към празно поле за получател",
+    val: "Премести всички бележки за транзакции в празно поле за получател",
     translated: true,
     h: "Ibe3mbvnAzB2IdenvVSIAQdz1//j2Hd5vMpVIn+CH+8=",
   },
@@ -1908,7 +1908,7 @@ const messages:IMessages = {
     h: "MaiZRnZgYzKFsvyy1L/fnIA4McuhD8MAo4t+Rw216oE=",
   },
   "Normal": {
-    val: "Нормално",
+    val: "Нормална",
     translated: true,
     h: "hjYDsfwaNZVxJ5eupqHy97JfTq/YAPm+bD+Zx0zrGuU=",
   },
@@ -2194,7 +2194,7 @@ const messages:IMessages = {
     h: "mSRS1xHHrwwVBuWBlj7RZIGTyGuUy4GwrwOFty5tZrU=",
   },
   "Personal Loan Payment": {
-    val: "Плащане на Потребителски Кредит",
+    val: "Изплащане на Потребителски Кредит",
     translated: true,
     h: "cL5KAz7DWc3XTzI4eo3t1PaGUe16WM+dKBg2ykfpQ6A=",
   },
@@ -2397,7 +2397,7 @@ const messages:IMessages = {
     h: "Q34JZduUI2Lx8xxjkeH/Md92nqWgEcbPFZjgf5m7tXA=",
   },
   "Reset Password": {
-    val: "Вазстанови Парола",
+    val: "Възстанови Парола",
     translated: true,
     h: "PHk0gZ6FwtHbvhVQhAv2NOv4tUth66ZawXknegPfOIU=",
   },
@@ -2504,8 +2504,8 @@ const messages:IMessages = {
     h: "aLgG0qubuw0p0tGIUYKjgxecVsL0e3AKvQ5+W2JZg18=",
   },
   "Server": {
-    val: "Server",
-    translated: false,
+    val: "Сървър",
+    translated: true,
     h: "98Uj+bvfVRmVVyN2pOqdlxgm+wkALgm7TVgJgEGYOA0=",
   },
   "Services": {
@@ -2526,7 +2526,7 @@ const messages:IMessages = {
     h: "VPMIV8ll2EYKjYDlgvDS3IbSSfjmE5VmCEGwFTHn/ys=",
   },
   "Settings": {
-    val: "Найстройки",
+    val: "Настройки",
     translated: true,
     h: "g5CfgkRu6cPoKgSs58kE8baksjDRuXC1WTLWKVn75z0=",
   },
@@ -2674,7 +2674,7 @@ const messages:IMessages = {
     h: "9KSqBDjMEVALs44MtvCW75xXb7Ta+lGl6bMoOlDV824=",
   },
   "Student Loan Payment": {
-    val: "Плащане на студентски заем",
+    val: "Изплащане на студентски заем",
     translated: true,
     h: "j83e9PkiJgq0J5iPOaku/mbjw9H3KtXBaDV4ntsQktk=",
   },
@@ -2777,8 +2777,8 @@ const messages:IMessages = {
     h: "QP5fEqFwlvHWJyjzrIWUJFlMvhFDxxSsl1vnej/p30I=",
   },
   "This method connects to a SimpleFIN server to get transaction data.": {
-    val: "This method connects to a SimpleFIN server to get transaction data.",
-    translated: false,
+    val: "Този метод се свързва със SimpleFIN сървър за да получи данни за транзакции.",
+    translated: true,
     h: "Zmn7+DJ5jSBES0aiPKUlEEvsrJWWUoeWAsydfoGZLqg=",
   },
   "This tool will delete data to make it easy to start over with your budget.": {
@@ -2802,7 +2802,7 @@ const messages:IMessages = {
     h: "syFKIORaeu0FezL85oAbo76XXa8k7bxITMbNowi8ba0=",
   },
   "To use Buckets, you must accept the End User License Agreement (EULA).": {
-    val: "За да използваш Buckets, трябва да приемеш Лицензионото Споразумение с Крайния Потребител (ЛСКП).",
+    val: "За да използваш Buckets, трябва да приемеш Лицензионното Споразумение с Крайния Потребител (ЛСКП).",
     translated: true,
     h: "0six0i9oNNM/hjCYct1UTEqdgMn0uoBbaBq0cvnoZLM=",
   },
@@ -2931,7 +2931,7 @@ const messages:IMessages = {
     h: "tML1A7GUQ8Z/SUbUV6zcxmjjrptonGvYtuU1Y2y/gvE=",
   },
   "Uncategorized": {
-    val: "Некотегоризирана",
+    val: "Некатегоризирана",
     translated: true,
     h: "BjQg1sHfdAVLyMzfMfC6sQnK4vIGQ6vrl6OsGg8Oqkk=",
   },
@@ -3134,7 +3134,7 @@ const messages:IMessages = {
     h: "2pr0zsSsuFii6F31xH62795E7bFmbKwAYd/oe2E1kBc=",
   },
   "Using this tool can ruin your budget file.  Make a copy of your budget if you're worried.": {
-    val: "Използването на този инструмент може да съсипе бюджетния ти файл.  Направи копие на бюдежта си ако се притесняваш.",
+    val: "Използването на този инструмент може да съсипе бюджетния ти файл.  Направи копие на бюджета си ако се притесняваш.",
     translated: true,
     h: "TCvA81ztNxeLhpVdiYrF4RLEGEp5FO3YWCgfOyjnjFc=",
   },
@@ -3250,7 +3250,7 @@ const messages:IMessages = {
     h: "8BZG+UdW1Rrd/+2zFNv7SskiNpD6DtlNa8LwQulqX5s=",
   },
   "You haven't kicked the bucket yet...": {
-    val: "Все още не си архивирал кофата...",
+    val: "Все още не си сритал кофата...",
     translated: true,
     h: "mtaAsLJ7BgWZcbIkRmZ4ZPSSRGXj6vJ2H8+diLhIba4=",
   },
@@ -3562,7 +3562,7 @@ const messages:IMessages = {
     h: "FVxtuv3HRHdU7Snx+P3YYxcSngOkrcKyS5mng6AB8gE=",
   },
   "bucketrain.help": {
-    val: "Тове е колко пари искат тези кофи всеки месец.  Малката кутийка показва колко са получили.",
+    val: "Това е колко пари искат тези кофи всеки месец.  Малката кутийка показва колко са получили.",
     translated: true,
     h: "3dbOFkUiGaEoD01CP7kIWDQHgUbULWexjdEKdEAF3sA=",
   },
@@ -3620,13 +3620,13 @@ const messages:IMessages = {
     h: "Fz1lBhxlewLJ5bSKTiIzzaW3CAtAPxkUWWKU0BVqgAA=",
   },
   "debt-bucket-explanation": {
-    val: "Това е специална кофа за плащане на дълг.",
+    val: "Това е специална кофа за изплащане на дълг.",
     translated: true,
     h: "+XZJ0Nl0JR5/xu1lf1csGge9E19plZmcKQmuaBg44aI=",
   },
   "debt-payment-bucket-name": {
     /* A likely account name might be "Credit Card" or "Chase VISA".  This is the name of the bucket that holds the payment for the debt account. */
-    val: (account_name:string) => `Плащане на ${account_name}`,
+    val: (account_name:string) => `Изплащане на ${account_name}`,
     translated: true,
     h: "QvSzok8BqSPb+A0q+87lqp62Rk+JFQhIno38JQyUfYg=",
   },
@@ -3745,7 +3745,7 @@ const messages:IMessages = {
     h: "nI/J4GfYlL6BgRZRSiPFfA5o7ASdx2VVYW6x3vgCuKE=",
   },
   "net-transfers.help": {
-    val: "Нетните трансфери са общата сума от всички трансакции маркирани като трансфери. Трябва да е 0. Ако не е, провери да потвърдиш, че няма дуплицирани транзакции или транзакции грешно категоризирани като тренсфери.",
+    val: "Нетните трансфери са общата сума от всички трансакции маркирани като трансфери. Трябва да е 0. Ако не е, провери да потвърдиш, че няма дублирани транзакции или транзакции грешно категоризирани като трансфери.",
     translated: true,
     h: "2P3jr/VPQ35tlPa/uDMqi1spXO4Rinn76fgfVOegiA8=",
   },
@@ -3870,17 +3870,10 @@ const messages:IMessages = {
     h: "S3tDRls+AJYj6f8jSNSCa1FVyNY+ngn6Db1EQJ3dpLE=",
   },
   "sync.toast.syncing": {
-    /* TRANSLATION CHANGED */
-    /* 1. Translate "newval: ..." */
-    /* 2. Delete the old "val: ..." */
-    /* 3. Rename "newval" to "val" */
-    newval: (start: string, end: string) => {
-          return `Syncing transactions from ${start} to ${end}`;
-        },
     val: (start: string, end: string) => {
-        return `Синхронизиране на транзакции от ${start} до ${end}`;
-      },
-    translated: false,
+          return `Синхронизиране на транзакции от ${start} до ${end}`;
+        },
+    translated: true,
     h: "kfgeaZeAfZyt8sVvXvqzEHDOD0Tak6EzY5KPcmFm/u0=",
   },
   "tab": {
@@ -3922,7 +3915,7 @@ const messages:IMessages = {
   },
   "unknown_account.account_hash": {
     /* Account fingerprint label */
-    val: "Простов отпечатък",
+    val: "Пръстов отпечатък",
     translated: true,
     h: "knLiHOJx3KZ0xE/Ex3QjyueLNEC/iAp6T3RHzZ3RayA=",
   },
